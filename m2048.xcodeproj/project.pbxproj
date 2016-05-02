@@ -36,7 +36,6 @@
 		24C4517018DFF10B0001FCFD /* M2ScoreView.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C4516F18DFF10B0001FCFD /* M2ScoreView.m */; };
 		24C4517318E140AE0001FCFD /* M2SettingsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C4517218E140AE0001FCFD /* M2SettingsDetailViewController.m */; };
 		24C4518118E265390001FCFD /* M2Overlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 24C4518018E265390001FCFD /* M2Overlay.m */; };
-		8DC09C1605617F4AD336E4AB /* BuddyBuildSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39A5E99857E6637D9CB299CA /* BuddyBuildSDK.framework */; };
 		B375645DF7FFEB0731A7864D /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DCBE62BCAA1EF9E06F56857 /* CoreText.framework */; };
 		CC3B3CD151DCCA326CBBF232 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B378DF9BB30DB6410EC0468 /* CoreTelephony.framework */; };
 		D54BA1E528AC7BFBC4B56529 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0318D9174408089C692CC1B0 /* QuartzCore.framework */; };
@@ -101,7 +100,6 @@
 		24C4517218E140AE0001FCFD /* M2SettingsDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = M2SettingsDetailViewController.m; sourceTree = "<group>"; };
 		24C4517F18E265390001FCFD /* M2Overlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = M2Overlay.h; sourceTree = "<group>"; };
 		24C4518018E265390001FCFD /* M2Overlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = M2Overlay.m; sourceTree = "<group>"; };
-		39A5E99857E6637D9CB299CA /* BuddyBuildSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BuddyBuildSDK.framework; sourceTree = "<group>"; };
 		3B378DF9BB30DB6410EC0468 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		9AE162C93DCC2A4CD401F4FE /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -115,7 +113,6 @@
 				2443DC5A18D662CA00C920C1 /* UIKit.framework in Frameworks */,
 				2443DC5C18D662CA00C920C1 /* SpriteKit.framework in Frameworks */,
 				2443DC5618D662CA00C920C1 /* Foundation.framework in Frameworks */,
-				8DC09C1605617F4AD336E4AB /* BuddyBuildSDK.framework in Frameworks */,
 				24683AEBC06B26676CE459C3 /* AssetsLibrary.framework in Frameworks */,
 				B375645DF7FFEB0731A7864D /* CoreText.framework in Frameworks */,
 				CC3B3CD151DCCA326CBBF232 /* CoreTelephony.framework in Frameworks */,
@@ -164,7 +161,6 @@
 				2443DC5918D662CA00C920C1 /* UIKit.framework */,
 				2443DC5B18D662CA00C920C1 /* SpriteKit.framework */,
 				2443DC7B18D662CA00C920C1 /* XCTest.framework */,
-				39A5E99857E6637D9CB299CA /* BuddyBuildSDK.framework */,
 				9AE162C93DCC2A4CD401F4FE /* AssetsLibrary.framework */,
 				1DCBE62BCAA1EF9E06F56857 /* CoreText.framework */,
 				3B378DF9BB30DB6410EC0468 /* CoreTelephony.framework */,
